@@ -1,0 +1,18 @@
+C:\Users\Dmitriy125\Desktop\Колледж\Домашки по программированию\TheTalesOfGoose\TheTalesOfGoose\bin\Debug\TheTalesOfGoose.exe.config
+C:\Users\Dmitriy125\Desktop\Колледж\Домашки по программированию\TheTalesOfGoose\TheTalesOfGoose\bin\Debug\TheTalesOfGoose.exe
+C:\Users\Dmitriy125\Desktop\Колледж\Домашки по программированию\TheTalesOfGoose\TheTalesOfGoose\bin\Debug\TheTalesOfGoose.pdb
+C:\Users\Dmitriy125\Desktop\Колледж\Домашки по программированию\TheTalesOfGoose\TheTalesOfGoose\obj\Debug\TheTalesOfGoose.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy125\Desktop\Колледж\Домашки по программированию\TheTalesOfGoose\TheTalesOfGoose\obj\Debug\TheTalesOfGoose.exe
+C:\Users\Dmitriy125\Desktop\Колледж\Домашки по программированию\TheTalesOfGoose\TheTalesOfGoose\obj\Debug\TheTalesOfGoose.pdb
+H:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\bin\Debug\TheTalesOfGoose.exe.config
+H:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\bin\Debug\TheTalesOfGoose.exe
+H:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\bin\Debug\TheTalesOfGoose.pdb
+H:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\obj\Debug\TheTalesOfGoose.csprojResolveAssemblyReference.cache
+H:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\obj\Debug\TheTalesOfGoose.exe
+H:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\obj\Debug\TheTalesOfGoose.pdb
+E:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\bin\Debug\TheTalesOfGoose.exe.config
+E:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\bin\Debug\TheTalesOfGoose.exe
+E:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\bin\Debug\TheTalesOfGoose.pdb
+E:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\obj\Debug\TheTalesOfGoose.csprojResolveAssemblyReference.cache
+E:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\obj\Debug\TheTalesOfGoose.exe
+E:\Колледж\Прогерство\Дома\TheTalesOfGoose\TheTalesOfGoose\obj\Debug\TheTalesOfGoose.pdb
